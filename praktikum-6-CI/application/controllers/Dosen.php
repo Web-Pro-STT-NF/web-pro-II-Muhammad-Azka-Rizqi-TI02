@@ -13,7 +13,7 @@ class Dosen extends CI_Controller {
      $this->load->model('dosen_model', 'dosen2');
      $this->dosen2->id = 2;
      $this->dosen2->nidn = '222';
-     $this->dosen2->nama = 'Japur Artz';
+     $this->dosen2->nama = 'Arianto';
      $this->dosen2->gender = 'L';
      $this->dosen2->pendidikan = "S3";
 
