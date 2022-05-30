@@ -6,3 +6,8 @@ Ka maaf tadi filenya kehapus semua :)
 
 Untuk upload kemarin tepat waktu semua ka 
 
+praktikum 6 = 7 di ka fiki
+
+praktikum 7 = 8 di ka fiki
+
+Dst
