@@ -10,6 +10,8 @@ praktikum 6 = 7 di ka fiki
 
 praktikum 7 = 8 di ka fiki
 
+praktikum 8 = 9 di ka fiki
+
 praktikum 9 = 10 di ka fiki
 
 Dst
