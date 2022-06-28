@@ -14,7 +14,7 @@
 <body>
     <div class="container">
         <div class="card">
-            <div class="card-header bg-primary text-white">Data Mahasiswa</div>
+            <div class="card-header bg-warning text-dark text-center"><b>Data Mahasiswa</b></div>
             <div class="card-body">
                 <table class="table">
                     <thead>
