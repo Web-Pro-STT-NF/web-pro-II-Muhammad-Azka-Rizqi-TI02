@@ -8,6 +8,8 @@ Untuk upload kemarin tepat waktu semua ka
 
 praktikum 6 = 7 di ka fiki
 
+"Praktikum 6  ada 2 satu tugas Pa Rojul satu lagi hanya instalasi CI nya saja"
+
 praktikum 7 = 8 di ka fiki
 
 praktikum 8 = 9 di ka fiki
